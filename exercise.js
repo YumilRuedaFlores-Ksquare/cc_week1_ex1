@@ -12,6 +12,8 @@
 const cToF = (c) => {
     /* Only make changes below this comment */
     
+    //It's a simple return with the formule
+    return c*(9/5) + 32;
 
     /* Only make changes below this comment */
 }
