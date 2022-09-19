@@ -12,6 +12,8 @@
 const cToF = (c) => {
     /* Only make changes below this comment */
     
+    //To send the answer it is just add a return
+    return c*(9/5) + 32;
 
     /* Only make changes below this comment */
 }
